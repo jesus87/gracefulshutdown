@@ -1,4 +1,4 @@
-# Exercices HasCode,Stats and Graceful Shutdown
+# Exercises HashCode,Stats and Graceful Shutdown
 
 Commands for running the applicaction using make file, 
 default port is 8081 for the requests, postman collection is attached
